@@ -1,0 +1,14 @@
+{
+  "name": "localiza",
+  "version": "1.0.0",
+  "description": "api localiza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simone Lops",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
